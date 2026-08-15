@@ -7,3 +7,4 @@ RUN apt-get update && \
     cpak-clean-junk
 
 COPY io.github.thetumultuousunicornofdarkness.cpu-x.desktop /usr/share/applications/io.github.thetumultuousunicornofdarkness.cpu-x.desktop
+COPY icon.png /usr/share/icons/hicolor/128x128/apps/cpu-x.png
