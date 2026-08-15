@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=CPU-X
+Comment=Inspect processor, motherboard, memory and system information.
+Exec=cpu-x
+Icon=cpu-x
+Terminal=false
+Categories=System;Monitor;
