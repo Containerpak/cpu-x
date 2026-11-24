@@ -4,7 +4,7 @@
   "name": "CPU-X",
   "description": "Inspect processor, motherboard, memory and system information.",
   "version": "5.4.0",
-  "image": "ghcr.io/containerpak/cpu-x@sha256:68633c7583703b3fa181cd92bee4d9691abe8635e67c5348098e23cf81a50fed",
+  "image": "ghcr.io/containerpak/cpu-x@sha256:25cfe60f50b21dc723a493db342e83e0b254391466dc2379899b4d5d971f7f5d",
   "binaries": [
     "/usr/bin/cpu-x"
   ],
